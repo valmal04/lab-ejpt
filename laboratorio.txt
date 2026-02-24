@@ -1,0 +1,54 @@
+Script started on 2026-02-21 06:55:51-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="77" LINES="28"]
+                                                                             ]0;kali@kali: ~[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hl[36ml[39m[36ml[39m[38;5;244ms[39m[36ml[36ms[39m[36ml[36ms[36m [39m[36ml[36ms[39m[39m [38;5;244m/la[39m[39m-[39m [39m [32m-[39m[32m-[32ml[39m[32ml[32ma[39m[?1l>[?2004l
+total 140
+drwx------ 16 kali kali  4096 Feb 21 06:55 [0m[01;34m.[0m
+drwxr-xr-x  3 root root  4096 Feb 20 16:57 [01;34m..[0m
+-rw-r--r--  1 kali kali   220 Feb 20 16:57 .bash_logout
+-rw-r--r--  1 kali kali  5551 Feb 20 16:57 .bashrc
+-rw-r--r--  1 kali kali  3526 Feb 20 16:57 .bashrc.original
+drwxrwxr-x  7 kali kali  4096 Feb 21 05:49 [01;34m.cache[0m
+drwxr-xr-x 13 kali kali  4096 Feb 21 06:50 [01;34m.config[0m
+drwxr-xr-x  2 kali kali  4096 Feb 21 06:55 [01;34mDesktop[0m
+-rw-r--r--  1 kali kali    35 Feb 20 16:59 .dmrc
+drwxr-xr-x  2 kali kali  4096 Feb 20 16:59 [01;34mDocuments[0m
+drwxr-xr-x  2 kali kali  4096 Feb 20 16:59 [01;34mDownloads[0m
+-rw-r--r--  1 kali kali 11759 Feb 20 16:57 .face
+lrwxrwxrwx  1 kali kali     5 Feb 20 16:57 [01;36m.face.icon[0m -> .face
+drwx------  3 kali kali  4096 Feb 20 16:59 [01;34m.gnupg[0m
+-rw-------  1 kali kali     0 Feb 20 16:59 .ICEauthority
+drwxr-xr-x  3 kali kali  4096 Feb 20 16:57 [01;34m.java[0m
+-rw-rw-r--  1 kali kali     0 Feb 21 06:55 laboratorio.txt
+drwxr-xr-x  5 kali kali  4096 Feb 20 16:59 [01;34m.local[0m
+drwxr-xr-x  2 kali kali  4096 Feb 20 16:59 [01;34mMusic[0m
+drwxr-xr-x  2 kali kali  4096 Feb 20 16:59 [01;34mPictures[0m
+-rw-r--r--  1 kali kali   807 Feb 20 16:57 .profile
+drwxr-xr-x  2 kali kali  4096 Feb 20 16:59 [01;34mPublic[0m
+drwx------  3 kali kali  4096 Feb 20 16:59 [01;34m.ssh[0m
+-rw-r--r--  1 kali kali     0 Feb 21 06:01 .sudo_as_admin_successful
+drwxr-xr-x  2 kali kali  4096 Feb 20 16:59 [01;34mTemplates[0m
+drwxr-xr-x  2 kali kali  4096 Feb 20 16:59 [01;34mVideos[0m
+-rw-------  1 kali kali    49 Feb 21 06:15 .Xauthority
+-rw-------  1 kali kali  4278 Feb 21 06:16 .xsession-errors
+-rw-------  1 kali kali  5115 Feb 21 06:15 [00;90m.xsession-errors.old[0m
+-rw-r--r--  1 kali kali   336 Feb 20 16:57 .zprofile
+-rw-------  1 kali kali   214 Feb 21 06:15 .zsh_history
+-rw-r--r--  1 kali kali 10855 Feb 20 16:57 .zshrc
+                                                                             ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hw[36mw[39m[36mw[39m[38;5;244mhoami[39m[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mw[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36ma[39m[39m[4mw[39m[4mh[39m[4mo[39m[4ma[24m[4ma[39m[4mm[24m[4mm[39m[4mi[24m[24m[36mw[24m[36mh[24m[36mo[24m[36ma[24m[36mm[24m[36mi[39m[?1l>[?2004l
+kali
+                                                                             ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hi[4mi[24m[4mi[24m[38;5;244md[39m[4mi[39m[4md[24m[24m[36mi[24m[36md[39m[?1l>[?2004l
+uid=1000(kali) gid=1000(kali) groups=1000(kali),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),103(scanner),116(bluetooth),121(lpadmin),124(wireshark),130(kaboxer)
+                                                                             ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;5;244mudo reboot[39m[10D[4ms[39m[4mu[24m[24m[36ms[24m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39mw[39m [39m [39m [39m [39m [36mw[39m[38;5;244mhoami[39m[36mw[36mh[39m[39m[4mw[39m[4mh[24m[4mh[39m[4mo[24m[24m[36mw[24m[36mh[24m[36mo[39m[36mo[36ma[39m[39m[4mw[39m[4mh[39m[4mo[39m[4ma[24m[4ma[39m[4mm[24m[4mm[39m[4mi[24m[24m[36mw[24m[36mh[24m[36mo[24m[36ma[24m[36mm[24m[36mi[39m[?1l>[?2004l
+[sudo] password for kali: 
+root
+                                                                             ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004he[4me[24m[4me[4mx[24m[24m[36me[24m[36mx[39m[36me[36mx[36mi[39m[39m[4me[39m[4mx[39m[4mi[24m[4mi[4mt[24m[24m[36me[24m[36mx[24m[36mi[24m[36mt[39m[?1l>[?2004l
+
+Script done on 2026-02-21 06:56:43-05:00 [COMMAND_EXIT_CODE="0"]
